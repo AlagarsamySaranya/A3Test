@@ -1,5 +1,4 @@
-# A3Test
-A3Test
+
 # A3Test - Assertion Augmented Automated Test Case Generation
 Developing a BART based model for the unit test cases generation
 
